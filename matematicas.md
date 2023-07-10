@@ -1,5 +1,7 @@
+<<<<<<< Updated upstream
 #Nuestro cliente es el mejor 
 
+Esto es un fichero practica
 Hola este es un fichero de lectura para nuestro repositorio:
 
 
