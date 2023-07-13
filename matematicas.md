@@ -12,3 +12,5 @@ ESto es otra modificacion para el git status -s
 EStoy haciendo unos progresos que seran interrumpidos. Han sido retomados mediante stash 2.0. Retomado y terminado 10-07-23
 
 Cambios que se aplicaran con rebase. Han sido exitosos.
+
+#Esto es una modificacion hecha desde la web
